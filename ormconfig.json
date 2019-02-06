@@ -1,0 +1,10 @@
+{
+  "type": "mssql",
+  "host": "svr-qualit02.dev.ifb",
+  "port": 1435,
+  "username": "sa",
+  "password": "Enero2018+",
+  "database": "TradingTool",
+  "entities": ["src/**/**.entity{.ts,.js}"],
+  "synchronize": true
+}
